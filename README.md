@@ -1,3 +1,3 @@
 # Footsies
 
-Developed with Unreal Engine 4
+a re-creation for a class project.
